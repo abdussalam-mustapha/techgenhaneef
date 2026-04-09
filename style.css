@@ -1,6 +1,9 @@
 body {
-    background-color: rgb(238, 238, 238);
+    background-color: rgb(250, 167, 12);
 }
+
+
+
 
 .title-container {
     display: flex;
@@ -9,20 +12,6 @@ body {
 }
 
 .title-container img {
-    height: 500px;
-    width: 500px;
-    border: 10px solid green;
-    border-radius: 10px;
-}
-
-
-/* .title-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-} */
-
-/* .title-container img {
     height: 500px;
     width: 500px;
     border: 10px solid green;
@@ -70,4 +59,4 @@ body {
     justify-content: space-between;
     padding-top: 20px;
     border-bottom: 2px solid gray;
-} */
+}

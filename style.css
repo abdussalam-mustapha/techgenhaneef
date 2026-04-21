@@ -15,8 +15,53 @@ body {
     height: 500px;
     width: 500px;
     border: 10px solid green;
+    border-radius: 10px;
+}
+
+.leonardo {
+    display: flex;
+    gap: 50px;
+    border-bottom: 2px solid gray;
+    padding-bottom: 50px;
+}
+
+.leonardo img {
+    height: 500px;
+    width: 500px;
+    border: 10px solid green;
     border-radius: 20px;
 }
+
+.donatelo {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    border-bottom: 2px solid gray;
+}
+
+.raphael {
+    display: flex;
+    gap: 50px;
+    border-bottom: 2px solid gray;
+    padding-bottom: 50px;
+}
+
+.raphael img {
+    height: 500px;
+    width: 500px;
+    border: 10px solid green;
+    border-radius: 20px;
+}
+
+
+.michelangelo {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    border-bottom: 2px solid gray;
+}
+
+
 
 /* .leonardo {
     display: flex;
